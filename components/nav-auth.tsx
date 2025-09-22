@@ -61,6 +61,9 @@ export default function NavAuth() {
       <Link href="/dashboard">
         <Button variant="ghost" className="text-gray-700 hover:text-purple-600 hover:bg-purple-50">Dashboard</Button>
       </Link>
+      <Link href="/hesaplar">
+        <Button variant="ghost" className="text-gray-700 hover:text-purple-600 hover:bg-purple-50">Hesaplar</Button>
+      </Link>
       <Link href="/profil">
         <Button variant="ghost" className="text-gray-700 hover:text-purple-600 hover:bg-purple-50">Profilim</Button>
       </Link>

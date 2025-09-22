@@ -1,0 +1,48 @@
+
+> frontend@0.1.0 dev
+> next dev --turbopack
+
+   ▲ Next.js 15.5.2 (Turbopack)
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.24.179:3000
+   - Environments: .env.local
+
+ ✓ Starting...
+ ✓ Ready in 1002ms
+ ○ Compiling / ...
+ ✓ Compiled / in 2.4s
+ GET / 200 in 3007ms
+ ✓ Compiled /dashboard in 255ms
+ GET /dashboard 200 in 342ms
+ GET /dashboard?id=7b54da0e-67a9-42f7-8407-8bc09d12162f&vscodeBrowserReqId=1758540258980 200 in 100ms
+ ✓ Compiled /giris in 244ms
+ GET /giris 200 in 355ms
+ GET /dashboard 200 in 183ms
+ ✓ Compiled /favicon.ico in 337ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 621ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 260ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 234ms
+ GET /dashboard 200 in 104ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 318ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 274ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 256ms
+ GET /dashboard 200 in 249ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 327ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 266ms
+ ✓ Compiled in 167ms
+ GET /dashboard 200 in 249ms
+ GET /giris 200 in 248ms
+ GET /dashboard 200 in 89ms
+ GET /giris 200 in 81ms
+ GET /dashboard 200 in 75ms
+ GET /dashboard 200 in 50ms
+ GET /dashboard 200 in 88ms
+ GET /dashboard 200 in 80ms
+ GET /giris 200 in 175ms
+ GET /dashboard 200 in 171ms
+ GET /dashboard 200 in 101ms
+ GET /giris 200 in 99ms
+ GET /dashboard 200 in 98ms
+ GET /dashboard 200 in 69ms
+ GET /dashboard 200 in 60ms
+ GET /dashboard 200 in 58ms

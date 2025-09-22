@@ -13,7 +13,7 @@ export default function SignupPage() {
   const [password, setPassword] = useState("");
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
-  const apiBase = process.env.NEXT_PUBLIC_API_BASE ?? "http://localhost:8081";
+  const apiBase = process.env.NEXT_PUBLIC_API_BASE ?? "http://localhost:8000";
 
   async function handleSubmit(e: React.FormEvent) {
     e.preventDefault();
